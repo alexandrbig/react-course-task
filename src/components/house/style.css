@@ -1,0 +1,25 @@
+.house {
+	margin: 0;
+	padding: 10px;
+}
+
+.house p {
+	padding-left: 1rem;
+}
+
+.house .toggle {
+	cursor: pointer;
+	padding: 0 5px;
+}
+
+.house .name {
+	padding: 0 5px;
+}
+
+.house .members {
+	margin: 1rem 0 0 1rem;
+}
+
+.house .hidden {
+	display: none;
+}

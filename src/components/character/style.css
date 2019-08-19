@@ -1,0 +1,16 @@
+.characterLink {
+	display: inline-block;
+	margin: 0 0 5px;
+}
+
+.characterLink .link {
+	padding: 0 5px;
+}
+
+.character {
+	font-size: 24px;
+}
+
+.character .details span {
+	margin-left: 1rem;
+}

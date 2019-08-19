@@ -1,0 +1,12 @@
+.houseList {
+
+}
+
+.houseList .navigate {
+	margin: 1rem 0;
+}
+
+.houseList .navigate a {
+	margin: 0 1rem;
+}
+
